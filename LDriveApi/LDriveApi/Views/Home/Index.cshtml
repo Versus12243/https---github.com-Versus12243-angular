@@ -1,0 +1,45 @@
+﻿<!doctype html>
+<html ng-app="webApp">
+<head>
+    <title>Some title</title>
+    <meta charset="utf-8">
+    @Styles.Render("~/Content/css")
+    <script src="~/Scripts/jquery-3.1.0.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.1.min.js"></script>
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/Controllers/LandingPageController.js"></script>
+    <script src="~/signalr/hubs"></script>
+</head>
+<body>  
+    <div ng-controller="LandingPageController">
+       <table class="table-bordered table text-center" style="width: 100%">
+           <thead style="text-align:center">
+               <tr>
+                   <th>Less 10Mb</th>
+                   <th>10Mb-50Mb</th>
+                   <th>More 100Mb</th>
+               </tr>
+           </thead>
+           <tbody>
+               <tr>
+                   <td id="Less10Mb" ng-bind="Data.Less10Mb"></td>
+                   <td id="From10To50Mb" ng-bind="Data.From10To50Mb"></td>
+                   <td id="More100Mb" ng-bind="Data.More100Mb"></td>
+               </tr>
+           </tbody>
+       </table>
+
+        <label>Current path: </label>
+        <span>{{Data.CurrentPath}}</span>
+        <hr>
+            <div style="height: 50%; overflow-y: auto; outline: 1px solid grey">
+                <ul class="list-unstyled list-group-item">
+                    <li ng-repeat="link in Data.Links">
+                        <a id="links" style="cursor: pointer" ng-click="changePath(link.Link)">{{link.Text}}</a>
+                    </li>
+                </ul>
+            </div>
+    </div>   
+
+</body>
+</html>

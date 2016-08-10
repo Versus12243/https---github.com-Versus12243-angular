@@ -1,0 +1,16 @@
+2016-08-11 00:23:57.0802|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:23:57.4043|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:24:42.7899|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:24:42.8429|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:27:15.7026|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:27:15.7546|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:29:48.7264|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:29:48.7864|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:30:18.7651|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:30:18.8211|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:31:21.4197|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:31:21.4767|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:33:22.5146|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:33:22.5696|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:36:19.5847|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
+2016-08-11 00:36:19.6597|INFO|LDriveWebApi.Helpers.LDriveHelper|Access to the path 'C:\Program Files (x86)\Google\CrashReports' is denied.
